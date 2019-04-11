@@ -1,0 +1,22 @@
+html body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	background-color: black;
+	color: grey
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  backgrousnd-size: cover;*/
+}
+.navbar .breadcrumb{
+	opacity: 0.3;
+}
+.back{
+	background-color: lightgrey;
+	opacity: 0.8;
+	
+}
+.important{
+	color:red;
+	font-weight: bold;
+}
